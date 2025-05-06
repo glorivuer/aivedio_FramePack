@@ -3,3 +3,5 @@ https://github.com/kohya-ss/FramePack-eichi/tree/feat-on-the-fly-lora
 
 NSFW版「FramePack-eichi」検証中。
 https://github.com/dijama/FramePack-eichi-eng
+
+https://github.com/git-ai-code/FramePack-eichi/blob/main/README/README_zh.md
