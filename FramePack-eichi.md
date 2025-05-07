@@ -18,6 +18,10 @@ https://huggingface.co/blog/MonsterMMORPG/framepack-full-tutorial-1-click-to-ins
 幾個Framepack的有趣分支
 https://home.gamer.com.tw/artwork.php?sn=6132699
 
+
+
+
+https://note.com/npaka/n/n33d1a0f1bbc1
 「Google Colab」で「FramePack-eichi」 
 https://note.com/npaka/n/n1932501c05b6
 在 Colab 上运行
