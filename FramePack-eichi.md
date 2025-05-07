@@ -9,3 +9,7 @@ https://github.com/git-ai-code/FramePack-eichi/blob/main/README/README_zh.md
 FramePackLoop  FramePackLoop は、lllyasviel氏の lllyasviel/FramePack をベースに、ループに特化した機能拡張を施したソフトウェアです。
 https://github.com/red-polo/FramePackLoop?tab=readme-ov-file#framepackvideo2loopvideobeta
 
+
+FramePack: Advanced Image-to-Video Generation
+https://huggingface.co/blog/MonsterMMORPG/framepack-full-tutorial-1-click-to-install-on-win
+
