@@ -13,3 +13,6 @@ https://github.com/red-polo/FramePackLoop?tab=readme-ov-file#framepackvideo2loop
 FramePack: Advanced Image-to-Video Generation
 https://huggingface.co/blog/MonsterMMORPG/framepack-full-tutorial-1-click-to-install-on-win
 
+幾個Framepack的有趣分支
+https://home.gamer.com.tw/artwork.php?sn=6132699
+
