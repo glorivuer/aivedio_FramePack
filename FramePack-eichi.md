@@ -3,8 +3,10 @@ https://github.com/kohya-ss/FramePack-eichi/tree/feat-on-the-fly-lora
 
 NSFW版「FramePack-eichi」検証中。
 https://github.com/dijama/FramePack-eichi-eng
+https://legacy.aipictors.com/works/584668/
 
 https://github.com/git-ai-code/FramePack-eichi/blob/main/README/README_zh.md
+
 
 FramePackLoop  FramePackLoop は、lllyasviel氏の lllyasviel/FramePack をベースに、ループに特化した機能拡張を施したソフトウェアです。
 https://github.com/red-polo/FramePackLoop?tab=readme-ov-file#framepackvideo2loopvideobeta
