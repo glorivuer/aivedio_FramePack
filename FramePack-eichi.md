@@ -1,7 +1,10 @@
 
 https://note.com/npaka/n/n33d1a0f1bbc1
+
 https://note.com/npaka/n/n33d1a0f1bbc1
+
 example 用两张图片制作换装视频 https://gosuloli.com/archives/1643
+FramePack-F1. Prompt : Girl spins slowly right,  embarrassed, serene and graceful.
 
 「Google Colab」で「FramePack-eichi」 
 https://note.com/npaka/n/n1932501c05b6
