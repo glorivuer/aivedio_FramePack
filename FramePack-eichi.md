@@ -1,6 +1,8 @@
 
 https://note.com/npaka/n/n33d1a0f1bbc1
 https://note.com/npaka/n/n33d1a0f1bbc1
+example 用两张图片制作换装视频 https://gosuloli.com/archives/1643
+
 「Google Colab」で「FramePack-eichi」 
 https://note.com/npaka/n/n1932501c05b6
 在 Colab 上运行
