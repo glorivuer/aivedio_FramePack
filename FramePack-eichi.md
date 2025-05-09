@@ -1,4 +1,7 @@
 
+
+https://huggingface.co/spaces/linoyts/FramePack-F1
+
 https://note.com/npaka/n/n33d1a0f1bbc1
 
 https://note.com/npaka/n/n33d1a0f1bbc1
