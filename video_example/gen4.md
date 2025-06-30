@@ -9,3 +9,5 @@ Photorealistic 3D cross-section rectangular base, panoramic view of the Azure ci
 Realistic 3D cross-section rectangular pedestal, Panoramic view of the Bund in Shanghai, with a red Xiaomi SU7 sports car passing by on the Bund's Zhongshan Road in the foreground, 
 with buildings such as the Shanghai Pearl TV Tower and Jinmao Tower across the river, 
 and a cruise ship in the river, isolated on a studio background, at sunset - v 7.0 - ar 4:3
+
+https://x.com/precious_miru/status/1939602307252961733
