@@ -1,3 +1,5 @@
+https://x.com/PatriciaRed_/status/1939622486473052269?s=19
+
 Photorealistic 3D cross-section rectangular base, panoramic view of the Azure circuit in Monaco, a red F1 car passing by in the track in the foreground, the casino and the buildings, and the marina in the distance, isolated on studio background, at sunset --v 7.0 --ar 4:3
 
 逼真的 3D 横截面矩形底座， 上海外滩的全景，一辆红色的小米SU7跑车在前景的外滩中山路上驶过，
