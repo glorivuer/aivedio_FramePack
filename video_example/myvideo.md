@@ -6,3 +6,9 @@ Photorealistic style, soft lighting, high water level and realism of materials.
 
 
 海妖的歌声
+
+The bird in the picture is chirping: It's Biden's fault for not putting this idiot on Alligator Island.
+图片中的这只鸟在嘎嘎嘎的叫:都是拜登的错，他没把这个傻逼关进鳄鱼岛.
+
+The bird in the picture flew from a distance, spread its wings and jumped on the branches, chirping and calling in Cantonese:
+图片中的鸟儿从远处飞来，张大着翅膀在树枝上跳来跳去，嘎嘎并使用广东话叫着:丢你老母
