@@ -34,3 +34,41 @@ Veo3 fast https://x.com/IamEmily2050/status/1941533874653475176?s=19
     "subtitles": false
   }
 }
+
+
+Veo3 fast https://x.com/IamEmily2050/status/1941573122836328636?s=19
+
+{
+  "shot": {
+    "composition": "Extreme close-up, 50mm lens, shot on ARRI Alexa, shallow depth of field, filmic texture",
+    "camera_motion": "whip pan from tight on face to mid-shot circling around",
+    "frame_rate": "24fps",
+    "film_grain": "fine Kodak 5219 grain"
+  },
+  "subject": {
+    "description": "An old man with a long white beard, deep-set wise eyes, bushy eyebrows, and weathered pale skin. He wears flowing charcoal-grey robes with intricate silver embroidery, a hood pulled back, an ancient leather-bound tome clutched in one hand, ornate silver rings on his fingers.",
+    "wardrobe": "Charcoal-grey robe with silver embroidery, leather belt, ornate rings, hood down."
+  },
+  "scene": {
+    "location": "Dark stone chamber with high arched ceilings and rune-etched walls.",
+    "time_of_day": "Night (or indeterminate, only magical light present)",
+    "environment": "Heavy shadows, swirling magical mist near the floor, occasional glints from wet stone, faint glowing runes on the walls."
+  },
+  "visual_details": {
+    "action": "The camera begins in an extreme close-up on the wizard’s determined expression as he mutters an arcane chant. Fiery runes ignite in mid-air from the tome. As the magic swells, the camera whip-pans around to reveal the runes exploding outward in a burst of magical energy.",
+    "props": "Ancient tome, swirling magical energy, fiery runes, glowing symbols on walls."
+  },
+  "cinematography": {
+    "lighting": "Magical glow in warm orange and gold, low ambient blue fill for shadows. Backlight on the wizard’s white hair and beard.",
+    "tone": "Epic, mystical, awe-inspiring, reminiscent of Lord of the Rings’ gravitas."
+  },
+  "audio": {
+    "ambient": "Deep arcane chanting echoing, choral hum, swelling orchestral score in the style of Howard Shore, crackle of magical energy, faint echo in stone chamber."
+  },
+  "color_palette": "Earth tones with teal and gold highlights, high contrast, cinematic grade inspired by Lord of the Rings.",
+  "dialogue": {
+    "character": "Wizard",
+    "line": null,
+    "subtitles": false
+  }
+}
