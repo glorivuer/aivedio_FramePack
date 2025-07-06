@@ -1,3 +1,5 @@
+
+https://x.com/AI_yukichi2910/status/1941278671857385726?s=19
 Veo3 fast https://x.com/IamEmily2050/status/1941483840243105933?s=19
 
 {
