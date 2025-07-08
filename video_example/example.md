@@ -10,3 +10,5 @@ Photorealistic 3D cross-section with a rectangular base, panoramic view of the M
 https://x.com/miilesus/status/1940420158234743242?s=19
 
 https://x.com/S1K3_SIKE/status/1942439135198822644
+
+https://x.com/takamasa045/status/1942405147445137645?s=19
